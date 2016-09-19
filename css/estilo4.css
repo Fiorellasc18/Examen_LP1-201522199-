@@ -3,6 +3,13 @@
 
 
 /*SELECTOR HERMANO ADYACENTE*/
-
+h1+div{
+    background: #7ce57c;
+    color: yellow;
+}
 
 /*SELECTOR HIJO*/
+div>footer>span{
+    background: #a6e8f4;
+    color: #f50c0c;
+}
