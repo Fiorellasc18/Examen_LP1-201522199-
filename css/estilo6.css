@@ -3,7 +3,14 @@
 
 
 /*SELECTOR ID*/
+#links{
+    background: #20b7ef;
+    color: #fff;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 28px;
 
+}
 
 
 /*SELECTOR PSEUDO-SELECTORES*/
