@@ -92,3 +92,10 @@ header{
 a{
      text-decoration: none;
 }
+
+input[name="Usuario"]{
+    background-image: url(/img/user.png);
+    background-repeat: no-repeat;
+    background-size: 12px;
+    background-position: left;
+}
