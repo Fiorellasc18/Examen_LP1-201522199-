@@ -1,6 +1,7 @@
 /*SELECTOR ATRIBUTO CONTIENE*/
 p[id*="o"]{
     color: #e405ed;
+    background: #c8f2a8;
 }
 
 
@@ -12,4 +13,5 @@ p[id*="o"]{
 footer[class~="footer"]{
     color: #01f226;
     background: #000;
+    font-size: 20px;
 }
