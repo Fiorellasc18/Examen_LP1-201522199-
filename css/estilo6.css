@@ -6,7 +6,7 @@
     text-align: center;
 }
 .contenido{
-    background: #095fe8;
+    background: #cedcf2;
     width: 80%;
     text-align: center;
 
@@ -19,6 +19,8 @@
     text-decoration: none;
     font-family: Arial;
     font-size: 28px;
+     height: 50px;
+    text-align: center;
 }
 #formulario{
     background: #aaa7a7;
@@ -32,6 +34,7 @@
 a:hover{
     background: red;
     color: white;
+    font-size: 34px;
 }
 a:active{
     background: #000;
