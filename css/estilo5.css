@@ -21,3 +21,25 @@ footer[class~="footer"]{
     background: #000;
     font-size: 20px;
 }
+
+
+
+
+/*OTROS SELECTORES*/
+
+h1{
+    text-align: center;
+    color: aqua;
+    font-size: 38px;
+}
+
+#contenido{
+    background: #cedcf2;
+    width: 70%;
+}
+.links{
+    background: #20b7ef;
+    height: 40px;
+    text-align: center;
+    width: 100%;
+}
