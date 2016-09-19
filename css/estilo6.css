@@ -34,3 +34,10 @@ textarea:focus{
 }
 
 /*OTROS SELECTORES NECESARIOS*/
+header{
+    background: #e3610f;
+    color: white;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
