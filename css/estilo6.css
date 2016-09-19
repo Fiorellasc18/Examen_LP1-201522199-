@@ -7,7 +7,7 @@
 }
 .contenido{
     background: #cedcf2;
-    width: 80%;
+    width: 70%;
     text-align: center;
 
 }
@@ -15,22 +15,24 @@
     background: #000;
     color: white;
     text-align: center;
+    width: 40%;
 }
 
 /*SELECTOR ID*/
 #links{
     background: #20b7ef;
     color: #fff;
-
     font-family: Arial;
     font-size: 28px;
      height: 140px;
     text-align: center;
     border: 5px;
     border-bottom: 8px;
+    width: 100%;
 }
 #formulario{
     background: #aaa7a7;
+    width: 40%;
 }
 #oracion{
     background: #a39cf4;
@@ -57,7 +59,6 @@ a:active{
 }
 
 
-
 input:hover{
     background: #edfdb7;
     height: 60px;
@@ -68,7 +69,6 @@ textarea:hover{
     height: 110px;
     width: 250px;
 }
-
 
 
 
@@ -90,6 +90,7 @@ header{
     height: 100px;
     width: 100%;
     text-align: center;
+    border-bottom: 0px 0px 0px 0px;
 }
 a{
      text-decoration: none;
