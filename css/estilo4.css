@@ -1,5 +1,8 @@
 /*SELECTOR HERMANO GENERAL*/
-
+h3~*{
+    background: #fab2d6;
+    color: #1e15f2;
+}
 
 
 /*SELECTOR HERMANO ADYACENTE*/
