@@ -16,3 +16,13 @@ div>footer>span{
     background: #a6e8f4;
     color: #f50c0c;
 }
+
+
+
+/*OTROS SELECTORES*/
+
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 38px;
+}
