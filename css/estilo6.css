@@ -13,10 +13,24 @@
     font-family: Arial;
     font-size: 28px;
 }
-
+#formulario{
+    background: #aaa7a7;
+}
 
 /*SELECTOR PSEUDO-SELECTORES*/
 
 
+
+
+input:focus{
+    border: 3px solid #21642d;
+    height: 30px;
+    background: #8ff0d6;
+}
+textarea:focus{
+    border: 3px solid #21642d;
+    height: 120px;
+    background: #8ff0d6;
+}
 
 /*OTROS SELECTORES NECESARIOS*/
