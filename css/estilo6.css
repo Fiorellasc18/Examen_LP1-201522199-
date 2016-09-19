@@ -24,8 +24,10 @@
 
     font-family: Arial;
     font-size: 28px;
-     height: 50px;
+     height: 140px;
     text-align: center;
+    border: 5px;
+    border-bottom: 8px;
 }
 #formulario{
     background: #aaa7a7;
@@ -58,7 +60,7 @@ a:active{
 
 input:hover{
     background: #edfdb7;
-    height: 20px;
+    height: 60px;
     width: 200px;
 }
 textarea:hover{
@@ -72,7 +74,7 @@ textarea:hover{
 
 input:focus{
     border: 3px solid #21642d;
-    height: 30px;
+    height: 50px;
     background: #8ff0d6;
 }
 textarea:focus{
@@ -91,11 +93,22 @@ header{
 }
 a{
      text-decoration: none;
+     display: block;
 }
 
 input[name="Usuario"]{
     background-image: url(/img/user.png);
     background-repeat: no-repeat;
-    background-size: 12px;
+    background-size: 18px;
     background-position: left;
+    text-align: center;
+    height: 30px;
+}
+input[name="clave"]{
+    background-image: url(/img/clave.ico);
+    background-repeat: no-repeat;
+    background-size: 18px;
+    background-position: left;
+    text-align: center;
+    height: 30px;
 }
