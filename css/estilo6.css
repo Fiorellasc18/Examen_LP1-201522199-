@@ -1,5 +1,8 @@
 /*SELECTOR DE CLASE*/
-
+.parrafo1{
+    background: #de9595;
+    font-size: 20px;
+}
 
 
 /*SELECTOR ID*/
@@ -9,7 +12,6 @@
     text-decoration: none;
     font-family: Arial;
     font-size: 28px;
-
 }
 
 
