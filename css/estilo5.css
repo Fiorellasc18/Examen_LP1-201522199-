@@ -6,7 +6,13 @@ p[id*="o"]{
 
 
 /*SELECTOR DE ATRIBUTO COMIENZA*/
-
+a[href^="https://"]{
+    font-size: 20px;
+    font-family: Arial;
+    color: #000;
+    background: #eaa5ea;
+    text-decoration: none;
+}
 
 
 /*SELECTOR DE ATRIBUTO SEPARADOS POR ESPACIO*/
