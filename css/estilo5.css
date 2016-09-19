@@ -1,8 +1,14 @@
 /*SELECTOR ATRIBUTO CONTIENE*/
-
+p[id*="o"]{
+    color: #e405ed;
+}
 
 
 /*SELECTOR DE ATRIBUTO COMIENZA*/
 
 
+
 /*SELECTOR DE ATRIBUTO SEPARADOS POR ESPACIO*/
+footer[class~="footer"]{
+    color: #01f226;
+}
