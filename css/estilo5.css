@@ -11,4 +11,5 @@ p[id*="o"]{
 /*SELECTOR DE ATRIBUTO SEPARADOS POR ESPACIO*/
 footer[class~="footer"]{
     color: #01f226;
+    background: #000;
 }
