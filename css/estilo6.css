@@ -16,9 +16,24 @@
 #formulario{
     background: #aaa7a7;
 }
+#oracion{
+    background: #a39cf4;
+    font-size: 11px;
+}
 
 /*SELECTOR PSEUDO-SELECTORES*/
+a:hover{
+    background: red;
+    color: white;
+}
+a:active{
+    background: #000;
+    color: white;
+    text-decoration: none;
+}
+a: {
 
+}
 
 
 
